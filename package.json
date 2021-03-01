@@ -1,0 +1,35 @@
+{
+  "name": "cordova-plugin-passgetter",
+  "version": "1.0.0",
+  "description": "Plugin for adding passes to Apple Wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaskea/cordova-plugin-passgetter.git"
+  },
+  "keywords": [
+    "passbook"
+  ],
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com.nortal.cordova-plugin-passgetter",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Vasilije Abazovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaskea/cordova-plugin-passgetter/issues"
+  },
+  "homepage": "https://github.com/vaskea/cordova-plugin-passgetter#readme"
+}
