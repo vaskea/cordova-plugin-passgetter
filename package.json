@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-passgetter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin for adding passes to Apple Wallet",
   "main": "index.js",
   "scripts": {
